@@ -6,7 +6,7 @@ var sheet = (function() {
 })();
 
 sheet.addRule('.ps-rotate-over', 'color:red;font-weight: bold;');
-sheet.addRule('.ps-rotate-out','color:blue;')
+sheet.addRule('.ps-rotate-out','color:red;')
 
 
 var rotateEls = document.getElementsByClassName('rotate');
