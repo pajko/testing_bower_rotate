@@ -1,0 +1,18 @@
+{
+  "name": "dummy-web-compo-bower",
+  "description": "dummy component for testing purposes",
+  "main": "dummy-compo.js",
+  "keywords": [
+    "dummy",
+    "component"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
