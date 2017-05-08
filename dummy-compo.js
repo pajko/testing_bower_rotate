@@ -5,8 +5,8 @@ var sheet = (function() {
   return style.sheet;
 })();
 
-sheet.addRule('.ps-rotate-over', 'color:blue;font-weight: bold;');
-sheet.addRule('.ps-rotate-out','color:white;')
+sheet.addRule('.ps-rotate-over', 'color:red;font-weight: bold;');
+sheet.addRule('.ps-rotate-out','color:blue;')
 
 
 var rotateEls = document.getElementsByClassName('rotate');
